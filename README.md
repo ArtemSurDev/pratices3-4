@@ -10,3 +10,5 @@
 ![Скриншот 1](practice-3/screenshots/screenshot6.png)
 ![Скриншот 1](practice-3/screenshots/screenshot7.png)
 ![Скриншот 1](practice-3/screenshots/screenshot8.png)
+## Практическая работа №4
+### Скриншоты
