@@ -1,3 +1,3 @@
 # Практические работы №3 и №4 Суринов Артём ЭФБО-03-24
 ## Практическая работа №3
-![Скриншот 1](screenshots/screenshot1.png)
+![Скриншот 1](practice-3/screenshots/screenshot1.png)
