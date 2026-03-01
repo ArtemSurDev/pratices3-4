@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Сервер для интернет-магазина",
+  "main": "server.js",
+  "scripts": {
+    "start": "set PORT=3001 && react-scripts start"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nanoid": "^3.3.6"
+  }
+}
